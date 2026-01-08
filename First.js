@@ -1,0 +1,1 @@
+console.log("My name is samar this is my first Javascript Statement.")
